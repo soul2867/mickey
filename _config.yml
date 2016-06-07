@@ -14,7 +14,7 @@ name:				         Soulwhat
 title:               Soulwhat
 tagline:             'tagline'
 description:         Let the past deposit, make the future happen.
-url:                 soul2867.github.io 
+url:                 soul2867.github.io
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -27,13 +27,7 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 author:
   name:           	 Xinyue Zhong
   url:            	 http://weibo.com/soul2867
-  facebook:          username
-  twitter:           username
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
+ 
 
 fb_admins:           Xinyue Zhong
 fb_appid:            Xinyue Zhong
