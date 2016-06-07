@@ -11,7 +11,7 @@ relative_permalinks: true
 timezone:            Asia/Beijing # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
 name:				         Soulwhat
-title:               site title
+title:               Soulwhat
 tagline:             'tagline'
 description:         Let the past deposit, make the future happen.
 url:                 soul2867.github.io 
@@ -26,7 +26,7 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
   name:           	 Xinyue Zhong
-  url:            	 your site url
+  url:            	 http://weibo.com/soul2867
   facebook:          username
   twitter:           username
   google_plus:       username
@@ -35,8 +35,8 @@ author:
   pinterest:         username
   kiva:              username
 
-fb_admins:           your facebook profile id
-fb_appid:            your facebook app id
+fb_admins:           Xinyue Zhong
+fb_appid:            Xinyue Zhong
 
 # Server
 destination:      	 ./_site
